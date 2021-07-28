@@ -1,4 +1,52 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+
+header{
+    padding: 10px 20px;
+    border-bottom: 1px solid gray;
+    margin-bottom: 100px;
+}
+
+.logo{
+    width: 10%;
+}
+
+.rightalign{
+    float: right;
+}
+
+.avatar{
+    border-radius: 50%;
+    width: 5%;
+}
+
+ul{
+    list-style: none;
+    display: inline;
+}
+
+li{
+    display: inline;
+}
+
+ul li a{
+    text-decoration: none;
+    color: gray;
+    margin: 0 10px;
+}
+
+.special{
+    color: blue;
+    border-bottom: 1px solid blue;
+}
+
 .container{
     margin: 0 10%;
     line-height: 1.6;
+}
+
+.gray{
+    background-color: gray;
 }
